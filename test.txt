@@ -1,6 +1,10 @@
 fyang
 I am develop
+<<<<<<< HEAD
 Hellow This is change fix CONFLICT for you 
+=======
+Hellow This is change fix CONFLICT for you
+>>>>>>> a18d337 (ffff)
 This is for maresult
 test merge
 ljust try it
